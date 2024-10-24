@@ -17,7 +17,7 @@ vimeo video page : https://vimeo.com/
 jdotcoopers@gmail.com
 C++
 
-
+a:visited{color:#555151;
 ............................................
 */
 
@@ -32,7 +32,7 @@ a:link {color:#CCD1D1;
 	text-decoration:none;
 }
 
-a:visited{color:#555151;
+a:visited{color:;
 
 }
 
